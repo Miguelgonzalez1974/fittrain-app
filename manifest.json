@@ -1,0 +1,21 @@
+{
+  "name": "FITtrain Data Logic",
+  "short_name": "FITtrain",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#b91c1c",
+  "description": "Tu aplicación para el control y análisis del entrenamiento.",
+  "icons": [
+    {
+      "src": "logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
